@@ -14,6 +14,8 @@ In this line, we must indicate the route plus the asset that must be dynamic, th
 
 ![Market Data 1](https://user-images.githubusercontent.com/86130991/130370515-a77817f4-4eaf-4063-8c3c-0a4a9cf045ee.png)
 
+We are going to get the returns by creating a new column called `close_previous`. Because it is with Yields that we must work to obtain the Risk Metrics.
 
+As we can see, the results can also be viewed in `Console` and the Graphical representations in `Plots`.
 
 ![Market Data 2](https://user-images.githubusercontent.com/86130991/130370588-e0b06585-a528-4064-8095-5b1eea0d05d7.png)
